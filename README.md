@@ -1,3 +1,4 @@
+<img width="1600" height="900" alt="c7b70c33-875e-4f26-a4f6-d00500b7c5d5" src="https://github.com/user-attachments/assets/9ff78ca3-54c3-4903-91b1-7c869bb43b74" />
 # Ayesh-24
 🔭 I’m currently working on : Mobile App Development 
      and AI Video Generation projects.
